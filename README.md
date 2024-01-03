@@ -2,6 +2,8 @@
 - if key = YTNSHKVEFXRBAUQZCLWDMIPGJO and plaintext = Hello 
 - the resulting ciphertext would be "Ehbbq"
 
+- Example keys are commented at the end of the source file.
+
 - Uses CS50 library for get_string function.
 - In order to compile, download cs50.h header file and cs50.c source code and include in the directory then type the following into the terminal
 
